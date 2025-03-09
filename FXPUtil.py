@@ -614,7 +614,7 @@ class GUI:
             self.status_var.set("Error saving database")
 
     def _update_database(self):
-        url = "AAA"  
+        url = "https://raw.githubusercontent.com/AbsoluteSkid/FXPUtil/refs/heads/main/signatures.json"  
         try:
             response = requests.get(url)
             response.raise_for_status()
