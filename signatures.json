@@ -1,0 +1,52 @@
+[
+    {
+        "code": "XfsX",
+        "name": "Serum",
+        "company": "Xfer"
+    },
+    {
+        "code": "NEXU",
+        "name": "Nexus",
+        "company": "reFX"
+    },
+    {
+        "code": "syl1",
+        "name": "Sylenth1",
+        "company": "LennarDigital"
+    },
+    {
+        "code": "VIPR",
+        "name": "Viper",
+        "company": "Adam Szabo"
+    },
+    {
+        "code": "cjs3",
+        "name": "Surge",
+        "company": "Surge Synthesizer Team"
+    },
+    {
+        "code": "VGRD",
+        "name": "Vanguard",
+        "company": "reFX"
+    },
+    {
+        "code": "g7U0",
+        "name": "Albino 3",
+        "company": "LinPlug"
+    },
+    {
+        "code": "T2DI",
+        "name": "Electra",
+        "company": "Tone2"
+    },
+    {
+        "code": "PW_R",
+        "name": "Rapid",
+        "company": "Parawave Audiodesign"
+    },
+    {
+        "code": "ETRV",
+        "name": "The Legend",
+        "company": "Synapse Audio"
+    }
+]
