@@ -1,5 +1,5 @@
 # FXPUtil
-An utility for working with VST preset files.
+A utility for working with VST preset files.
 
 ## Quick Overview
 - View metadata about the VST preset files such as the plugin it was made for, the company, etc 
