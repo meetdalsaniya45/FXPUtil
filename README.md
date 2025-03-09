@@ -39,7 +39,7 @@ python FXPUtil.py info -f preset.fxp
 
 #### Compare Two Presets
 ```
-python FXPUtil.py compare -f1 prest1.fxp -f2 preset2.fxp -n 200
+python FXPUtil.py compare -f1 preset1.fxp -f2 preset2.fxp -n 200
 ```
 The `-n` parameter specifies how many bytes to compare (optional, default is 100)
 
